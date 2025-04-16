@@ -1,6 +1,6 @@
 {
-  "name": "gmail-electron",
-  "productName": "gmail-electron",
+  "name": "google-sandbox",
+  "productName": "google-sandbox",
   "version": "0.1.0",
   "main": "build/App.js",
   "scripts": {
